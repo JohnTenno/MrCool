@@ -4,6 +4,12 @@
 * Tempalte URI: https://untree.co/
 * License: https://creativecommons.org/licenses/by/3.0/
 */
+
+.logos img{
+	width: 16vh;
+	height: auto;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   background-color: #fff;
